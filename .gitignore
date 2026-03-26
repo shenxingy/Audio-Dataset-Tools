@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Output audio chunks
+output/
+chunks/
+*.wav
+*.mp3
+*.flac
+
+# OS
+.DS_Store
+Thumbs.db
